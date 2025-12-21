@@ -1,6 +1,5 @@
-age=int(input("\nEnter the age:"))
-
-if(age>=18):
-    print("Yes")
-else:
-    print("No")
+s="manav"
+i=0
+while i<len(s):
+    print(s[i])
+    i+=1
