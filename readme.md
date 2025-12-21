@@ -7,4 +7,6 @@ Author:Manav dhupar
 4.Lists and Tuples<br>
 5.Set and dictionary<br>
 6.Conditional statements<br>
+7.Loops(for,do,while)
+
 
