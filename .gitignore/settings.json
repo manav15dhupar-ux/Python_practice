@@ -1,0 +1,34 @@
+{
+    "code-runner.clearPreviousOutput": true,
+    "workbench.colorCustomizations": {
+        "activityBar.activeBackground": "#fefafe",
+        "activityBar.background": "#fefafe",
+        "activityBar.foreground": "#15202b",
+        "activityBar.inactiveForeground": "#15202b99",
+        "activityBarBadge.background": "#baba25",
+        "activityBarBadge.foreground": "#15202b",
+        "commandCenter.border": "#15202b99",
+        "sash.hoverBorder": "#fefafe",
+        "statusBar.background": "#f4cdf8",
+        "statusBar.foreground": "#15202b",
+        "statusBarItem.hoverBackground": "#eaa0f2",
+        "statusBarItem.remoteBackground": "#f4cdf8",
+        "statusBarItem.remoteForeground": "#15202b",
+        "titleBar.activeBackground": "#f4cdf8",
+        "titleBar.activeForeground": "#15202b",
+        "titleBar.inactiveBackground": "#f4cdf899",
+        "titleBar.inactiveForeground": "#15202b99"
+    },
+    "peacock.color": "#f4cdf8",
+    "editor.language.colorizedBracketPairs": [
+
+    ],
+    "javascript.suggest.completeFunctionCalls": true,
+    "typescript.suggest.completeFunctionCalls": true,
+    "editor.inlineSuggest.suppressSuggestions": true,
+    "editor.acceptSuggestionOnEnter": "smart",
+    "debug.console.acceptSuggestionOnEnter": "off",
+    "editor.tabCompletion": "onlySnippets",
+    "emmet.triggerExpansionOnTab": false,
+    "editor.snippetSuggestions": "top"
+}
