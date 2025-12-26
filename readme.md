@@ -19,6 +19,7 @@ This repository is organized into chapters that focus on core Python topics:
 | `chapter_06` | Conditional Statements |
 | `chapter_07` | Loops (`for`, `while`) |
 | `chapter_08` | Functions and Recursion |
+| `chapter_09` | file handeling |
 
 Each chapter contains one or more `.py` files with practice code and examples that demonstrate the concepts.
 
