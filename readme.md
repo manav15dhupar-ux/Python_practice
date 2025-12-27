@@ -36,6 +36,7 @@ By exploring the projects in this repository, you will learn and practice:
 - Writing loops (`for`, `while`)
 - Defining and calling functions
 - Basic recursion and problem solving
+- Basic File handeling
 
 ---
 

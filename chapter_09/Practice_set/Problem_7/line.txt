@@ -1,0 +1,7 @@
+Python is a high-level, versatile programming language known for its simplicity, readability
+and wide range of applications. Created by Guido van Rossum and released in 1991, it allows
+developers to write clear and concise code suitable for both beginners and professionals.
+With a vast standard library and strong ecosystem of third-party packages, Python supports
+web development, data science, machine learning, automation, and more. Its cross-platform
+compatibility, dynamic typing, and supportive community make it an ideal choice for rapid
+prototyping and building robust applications across various domains.
